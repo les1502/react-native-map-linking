@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-909782f8a867f9af8cd5b38d5eebc22b4d290fdf.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-a62c2d2ba0e426ae8d5b043808f14532a40ffcad.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-070ae257947080dc66e5192b6561522580d195a8.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-f3df039ff8781d9a3dc9495a7ed8ba1d1ad8072b.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-d469a2515b54285d0cb9be4e182561ea5d8c926c.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-9f1b466cf9d076b6160088ceb3049bf99c818d37.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-e643cce3f31df83c357ee1877fdd9dd07177c670.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-a370991a62097052509da99b5868b837b8a0b672.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-3d22ae1db429800717848f7fa61de963ccfe7fe1.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.28.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e692405777839befca453a23ecc89fce2cebd058">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-147c2f63a107f9bd4852c56f3424e0240325cb8b.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-9cf8a330081a9fc075965f42aabeb1cbdbf6b66c.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-001d8c836ca1635d637a8c1cc4da42a14fd1ca8b.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/.m2/repository/com/google/code/findbugs/jsr305/3.0.0/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-5da14a755eca50c7761f0af9545e249f2cc8e0a1.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-3494a1a2c5618517a3c2f3480334194ace3cd34a.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="53880c6e24bb574c2f03fd0f743a268ccc502f45">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-28ec5bbedc9923c23caa693be12b11aeaef4e7a9.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-91ff7e120d09ddd1e727fc972a4dc4ddb4c4ac03.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.28.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b63941892634511f96bdb6e49a3aa62292fd5d90">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-c2acf8aa3ee2a2a296d53feee9ca06854e12de79.jar" />
+    </item>
+    <item
+        jar="/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-9d53085523d6823b765e9a69f4c5cd03c364fbe9.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/classes-abea47a198f2be22008f046f7b0e7152920d65ae.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.2.3/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-12380ed906b3717c7531ad5f22039f4127ee3b22.jar" />
+    </item>
+    <item
+        jar="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/liusixian/Develop/github.com/react-native-map-linking/example/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-630d3adadb41c863d386b4c88d959c457ce2765f.jar" />
+    </item>
+
+</items>
