@@ -1,7 +1,11 @@
 # React Native Map Linking
 
-这是一个利用React Native的Linking组件唤起系统内建地图的轮子, 目前支持:
+## Introduction
 
+这是一个利用React Native的Linking组件唤起系统内建地图的轮子
+
+## Use Case
+目前支持:
 * Android平台
     * 高德地图
     * 百度地图
