@@ -14,7 +14,7 @@
     * 百度地图
     * 苹果地图
 
-- 组件效果
+## Effect Picture
 
 <a><img width="200" src="./mapD.png"></a>
 
